@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions of 2 problems based on integral equations
   given in problem set 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-307-integral-equations-spring-2006/cbac9afbb2907e44e2f03335b02b9e84_sol5.pdf
+file: /media/courses/18-307-integral-equations-spring-2006/cbac9afbb2907e44e2f03335b02b9e84_sol5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sol5.pdf
 uid: cbac9afb-b290-7e44-e2f0-3335b02b9e84
