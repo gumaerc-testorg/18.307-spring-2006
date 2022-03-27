@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4abe0a22-8ee8-28be-92fd-8ac747e43f8d
 resourcetype: Document
 title: sol8_prob_24.pdf
 uid: 8c55456b-837a-f460-a624-81a5b8907a50
