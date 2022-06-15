@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains the main textbook, recommended texts and readings
+  according to the topics given.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
