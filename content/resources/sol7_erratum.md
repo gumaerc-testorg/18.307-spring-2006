@@ -5,6 +5,7 @@ file: /courses/18-307-integral-equations-spring-2006/7739a536bb937bf7bb61f4b7e61
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol7_erratum.pdf
 uid: 7739a536-bb93-7bf7-bb61-f4b7e6178157
 ---
 This file contains erratum for solutions to set 7.
-

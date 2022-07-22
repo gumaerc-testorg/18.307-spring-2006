@@ -4,6 +4,7 @@ description: This file contains the handouts for Fourier series and Fourier Tran
 file: /courses/18-307-integral-equations-spring-2006/9f84958d5fa5683633c9c17c8902c65d_fourier.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: fourier.pdf
 uid: 9f84958d-5fa5-6836-33c9-c17c8902c65d
 ---
 This file contains the handouts for Fourier series and Fourier Transformations.
-

@@ -6,6 +6,7 @@ file: /courses/18-307-integral-equations-spring-2006/23fd909dec446c356b3ab4c4d6a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sol6.pdf
 uid: 23fd909d-ec44-6c35-6b3a-b4c4d6a40227
 ---
 This resource contains solutions of 3 problems based on integral equations given in problem set 6.
-
