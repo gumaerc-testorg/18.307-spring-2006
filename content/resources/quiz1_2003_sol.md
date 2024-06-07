@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains quiz solutions.
 file: /courses/18-307-integral-equations-spring-2006/497e169d6cbc9a59dd094bdbafb753ec_quiz1_2003_sol.pdf
+file_size: 163543
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
