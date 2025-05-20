@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions of 3 problems based on integral equations
   given in problem set 7.
-file: /ol-ocw-studio-app/courses/18-307-integral-equations-spring-2006/c77eab6cf42e3066f2656866ff82048b_sol7.pdf
+file: /courses/18-307-integral-equations-spring-2006/c77eab6cf42e3066f2656866ff82048b_sol7.pdf
 file_size: 141118
 file_type: application/pdf
 learning_resource_types:
