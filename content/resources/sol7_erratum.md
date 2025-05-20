@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains erratum for solutions to set 7.
-file: /ol-ocw-studio-app/courses/18-307-integral-equations-spring-2006/7739a536bb937bf7bb61f4b7e6178157_sol7_erratum.pdf
+file: /courses/18-307-integral-equations-spring-2006/7739a536bb937bf7bb61f4b7e6178157_sol7_erratum.pdf
 file_size: 64312
 file_type: application/pdf
 learning_resource_types:
