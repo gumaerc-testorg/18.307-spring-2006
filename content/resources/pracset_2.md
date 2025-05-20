@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for practice based on integral equations.
-file: /ol-ocw-studio-app/courses/18-307-integral-equations-spring-2006/ac6b804552e887279cba49a92efbce6b_pracset_2.pdf
+file: /courses/18-307-integral-equations-spring-2006/ac6b804552e887279cba49a92efbce6b_pracset_2.pdf
 file_size: 78393
 file_type: application/pdf
 learning_resource_types: []
