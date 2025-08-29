@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the questions based on the required reading for the
   course.
-file: /courses/18-307-integral-equations-spring-2006/8c9a1b2eeab49895142b76ef7b4ec6e9_ps_7.pdf
+file: /ol-ocw-studio-app/courses/18-307-integral-equations-spring-2006/8c9a1b2eeab49895142b76ef7b4ec6e9_ps_7.pdf
 file_size: 44563
 file_type: application/pdf
 learning_resource_types:
